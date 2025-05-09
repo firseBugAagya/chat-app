@@ -5,7 +5,7 @@ A real-time chat application built with Next.js, Node, and Socket.io featuring r
 ## App Preview
 
 ### Desktop View
-![Desktop Screenshot](/screenshots/chat-1.png)
+![Desktop Screenshot](/public/screenshots/chat-1.png)
 ![Desktop Screenshot](/screenshots/chat-2.png)
 ![Desktop Screenshot](/screenshots/chat-3.png)
 
