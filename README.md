@@ -19,13 +19,13 @@ A real-time chat application built with Next.js, Node, and Socket.io featuring r
 
 ## Key Features
 
-- 💬 Real-time messaging with Socket.io
-- 📱 Responsive design (mobile & desktop)
-- 🔐 User authentication (JWT)
-- 📞 Online/offline status indicators
-- 🔍 Contact search functionality
-- 📲 Message read receipts with counter
-- 🎨 Dark mode UI
+- 🚀 **Real-Time Communication**: Socket.io powered instant messaging
+- 🔒 **Secure Authentication**: JWT with protected routes
+- 🌓 **Dark Mode UI**: Tailwind CSS styled interface
+- 📱 **Responsive Design**: Optimized for mobile and desktop
+- 🔍 **Search Functionality**: Instant contact search
+- ✔️ **Read Receipts**: Message status indicators
+- 🟢 **Presence Indicators**: Real-time online/offline status
 
 ## Technologies Used
 
@@ -48,11 +48,16 @@ A real-time chat application built with Next.js, Node, and Socket.io featuring r
 - MongoDB Atlas account or local MongoDB instance
 
 ### Installation
+  1. Clone the Repo
+   2. git clone https://github.com/firseBugAagya/chat-app
+   3. cd chat-app
+   4. install the dependencies of both Client and Server
+   5. npm run dev for client
+   6. npm start for server
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/firseBugAagya/chat-app
-   cd chat-app
-   install the dependencies of both Client and Server
-   npm run dev for client
-   npm start for server
+## Potential Improvements (Not Implemented)
+
+- **Code Splitting**
+- **Lazy Loading**
+- **Advanced State Management (Redux)**
+- **Organized content with clear sections and consistent formatting**
