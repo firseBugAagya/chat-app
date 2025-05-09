@@ -4,6 +4,10 @@ A real-time chat application built with Next.js, Node, and Socket.io featuring r
 
 ## App Preview
 
+### Auth View
+![Auth Screenshot](/public/screenshots/signIn.png)
+![Auth Screenshot](/public/screenshots/signUp.png)
+
 ### Desktop View
 ![Desktop Screenshot](/public/screenshots/chat-1.png)
 ![Desktop Screenshot](/public/screenshots/chat-2.png)
@@ -12,10 +16,6 @@ A real-time chat application built with Next.js, Node, and Socket.io featuring r
 ### Mobile View
 ![Mobile Screenshot](/public/screenshots/mobile-1.png)
 ![Mobile Screenshot](/public/screenshots/mobile-2.png)
-
-### Auth View
-![Auth Screenshot](/public/screenshots/signIn.png)
-![Auth Screenshot](/public/screenshots/signUp.png)
 
 ## Key Features
 
